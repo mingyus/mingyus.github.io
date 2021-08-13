@@ -30,9 +30,11 @@ Langdon A.J., **Song M.**, Niv Y. (2019) Uncovering the “state”: tracing the
 
 **Conference Proceedings**
 
-**Song M.**, Niv Y., Cai M.B. (2020) Learning multi-dimensional rules with probabilistic feedback via value-based serial hypothesis testing. *Workshop on Biological and Artificial Reinforcement Learning, Thirty-fourth Conference on Neural Information Processing Systems (Neurips)* [[talk](https://slideslive.com/38942371/learning-multidimensional-rules-via-valuebased-serial-hypothesis-testing)] [[pdf](http://mingyus.github.io/files/SongNivCai_Neurips_BARLworkshop_2020.pdf)]
+**Song M.**, Niv Y., Cai M.B. (2021) Using Recurrent Neural Networks to Understand Human Reward Learning. *43rd Annual Meeting of the Cognitive Science Society* [[poster](http://mingyus.github.io/files/SongNivCai_CogSci_2021_poster.pdf)] [[video](https://underline.io/events/163/posters/5709/poster/27030-1-d-135-using-recurrent-neural-networks-to-understand-human-reward-learning)] [[paper](http://mingyus.github.io/files/SongNivCai_CogSci_2021.pdf)]
 
-**Song M.**, Niv Y., Cai M.B. (2020) Learning what is relevant for rewards via value-based serial hypothesis testing. *42nd Annual Virtual Meeting of the Cognitive Science Society (CogSci)* [talk] [[pdf](http://mingyus.github.io/files/SongNivCai_CogSci_2020.pdf)]
+**Song M.**, Niv Y., Cai M.B. (2020) Learning multi-dimensional rules with probabilistic feedback via value-based serial hypothesis testing. *Workshop on Biological and Artificial Reinforcement Learning, Thirty-fourth Conference on Neural Information Processing Systems (Neurips)* [[talk](https://slideslive.com/38942371/learning-multidimensional-rules-via-valuebased-serial-hypothesis-testing)] [[paper](http://mingyus.github.io/files/SongNivCai_Neurips_BARLworkshop_2020.pdf)]
+
+**Song M.**, Niv Y., Cai M.B. (2020) Learning what is relevant for rewards via value-based serial hypothesis testing. *42nd Annual Virtual Meeting of the Cognitive Science Society (CogSci)* [talk] [[paper](http://mingyus.github.io/files/SongNivCai_CogSci_2020.pdf)]
 
 **Song M.**, Cai M.B, Niv Y. (2019) Learning what is relevant for rewards via value learning and hypothesis testing. *Computational and Cognitive Neuroscience Conference (CCN)*, Berlin, Germany [[poster](http://mingyus.github.io/files/SongCaiNiv_CNN_2019.pdf)]
 
@@ -42,4 +44,4 @@ Langdon A.J., **Song M.**, Niv Y. (2019) Uncovering the “state”: tracing the
 
 <br/>
 
-<span style="color:grey; font-size:0.9em">The documents distributed here have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by these copyrights. These works may not be reposted without the explicit permission of the copyright holder.</span>.
+<span style="color:grey; font-size:0.9em">The documents distributed here have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by these copyrights. These works may not be reposted without the explicit permission of the copyright holder.</span>
