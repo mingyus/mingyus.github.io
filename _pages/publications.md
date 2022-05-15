@@ -18,14 +18,17 @@ author_profile: true
 \* denotes equally contributing authors
 
 
-
 **Peer-reviewed**
+
+**Song, M.**, Jones, C. E., Monfils, M. H., & Niv, Y. (2022). Explaining the effectiveness of fear extinction through latent-cause inference. *Neurons, Behavior, Data analysis, and Theory*, https://doi.org/10.51628/001c.35660 \[[pdf](http://mingyus.github.io/files/SongJonesMonfilsNiv_NBDT_2022.pdf)\] \[[code](https://github.com/mingyus/fear-extinction-latent-cause-inference)\]
+
+**Song, M.**, Takahashi, Y. K., Burton, A. C., Roesch, M. R., Schoenbaum, G., Niv, Y., & Langdon, A. J. (2022). Minimal cross-trial generalization in learning the representation of an odor-guided choice task. *PLoS computational biology*, 18(3), e1009897. \[[pdf](http://mingyus.github.io/files/SongEtal_PLOSCB_2022.pdf)\] \[[code](https://github.com/mingyus/minimal-generalization-in-representation-learning)\]
+
+Langdon A.J., **Song M.**, Niv Y. (2019) Uncovering the “state”: tracing the hidden state representations that structure learning and decision-making. *Behavioural Processes*, 103891 \[[pdf](http://mingyus.github.io/files/LangdonSongNiv_BP_2020.pdf)\]
 
 **Song M.\***, Bnaya Z.\*, Ma W.J. (2019) Sources of suboptimality in a minimalistic explore-exploit task. *Nature Human Behaviour* 3, 361–368. \[[pdf](http://mingyus.github.io/files/SongBnayaMa_NHB_2020.pdf)\] \[[code](https://github.com/mingyus/explore-exploit)\]
 
 **Song M.\***, Wang X.\*, Zhang H., Li J. (2019) Proactive information sampling in value-based decision-making: deciding when and where to saccade. *Frontiers in Human Neuroscience*, 13, 35. \[[pdf](http://mingyus.github.io/files/SongWangZhangLi_fHN_2020.pdf)\]
-
-Langdon A.J., **Song M.**, Niv Y. (2019) Uncovering the “state”: tracing the hidden state representations that structure learning and decision-making. *Behavioural Processes*, 103891 \[[pdf](http://mingyus.github.io/files/LangdonSongNiv_BP_2020.pdf)\]
 
 
 **Conference Proceedings**
@@ -41,6 +44,10 @@ Langdon A.J., **Song M.**, Niv Y. (2019) Uncovering the “state”: tracing the
 **Song M.**, Langdon A., Takahashi Y., Schoenbaum G., Niv Y. (2019) Not smart enough: most rats fail to learn a parsimonious task representation. *The Multi-disciplinary Conference on Reinforcement Learning and Decision Making (RLDM)*, Montreal, QC, Canada [[poster](http://mingyus.github.io/files/SongLangdonNiv_RLDM_2019.pdf) & spotlight presentation]
 
 **Song M.**, Bnaya Z., Ma W.J. (2017) History effects in a minimalistic explore-exploit task. *Computational and Cognitive Neuroscience Conference (CCN)*, New York, NY [[talk](https://www.youtube.com/watch?v=VQlRJJz5V3s)]
+
+**Thesis**
+
+**Song M.** (2022) Learning to Discover Structure in Animal and Human Decision Tasks. *Princeton University* [link] [[pdf](http://mingyus.github.io/files/Song_PhDThesis_2022)]
 
 <br/>
 
