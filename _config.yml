@@ -11,7 +11,7 @@ title                    : "Mingyu Song"
 title_separator          : "-"
 name                     : &name "Mingyu Song"
 description              : &description "personal website"
-url                      : http://127.0.0.1:4000/ # for local test: http://127.0.0.1:4000/ https://mingyus.github.io 
+url                      : https://mingyus.github.io # for local test: http://127.0.0.1:4000/ 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mingyus/mingyus.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
