@@ -45,9 +45,9 @@ Langdon A.J., **Song M.**, Niv Y. (2019) Uncovering the “state”: tracing the
 
 **Song M.**, Bnaya Z., Ma W.J. (2017) History effects in a minimalistic explore-exploit task. *Computational and Cognitive Neuroscience Conference (CCN)*, New York, NY [[talk](https://www.youtube.com/watch?v=VQlRJJz5V3s)]
 
-**Thesis**
+**Dissertation**
 
-**Song M.** (2022) Learning to Discover Structure in Animal and Human Decision Tasks. *Princeton University* [link] [[pdf](http://mingyus.github.io/files/Song_PhDThesis_2022)]
+**Song M.** (2022) Learning to Discover Structure in Animal and Human Decision Tasks. *Princeton University* [[link](https://www.proquest.com/openview/ef5b343066d29e22058820348a73f0ea/1?pq-origsite=gscholar&cbl=18750&diss=y)] [[pdf](http://mingyus.github.io/files/Song_PhDThesis_2022.pdf)]
 
 <br/>
 

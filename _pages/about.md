@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at Meta, working on building better recommendation systems at large scales. I am passionate about understanding human behavior through experimentation and data analysis.
+I am a Research Scientist at Meta, working on building better recommendation systems at large scales. I am passionate about understanding human behavior through experimentation, data analysis and machine learning.
 
 I received my Ph.D. in Neuroscience from Princeton University in 2022, advised by [Yael Niv](https://nivlab.princeton.edu/). In my dissertation, I studied animal and human representation learning, using a combination of behavioral experiments and computational modeling.
 
