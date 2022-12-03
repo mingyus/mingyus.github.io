@@ -20,9 +20,11 @@ author_profile: true
 
 **Peer-reviewed**
 
-**Song, M.**, Jones, C. E., Monfils, M. H., & Niv, Y. (2022). Explaining the effectiveness of fear extinction through latent-cause inference. *Neurons, Behavior, Data analysis, and Theory*, https://doi.org/10.51628/001c.35660 \[[pdf](http://mingyus.github.io/files/SongJonesMonfilsNiv_NBDT_2022.pdf)\] \[[code](https://github.com/mingyus/fear-extinction-latent-cause-inference)\]
+**Song M.**, Baah P.A., Cai M.B. & Niv Y. (2022). Humans combine value learning and hypothesis testing strategically in multi-dimensional probabilistic reward learning. *PLoS computational biology*, 18(11), e1010699. \[[pdf](http://mingyus.github.io/files/SongBaahCaiNiv_PLOSCB_2022.pdf)\] \[[code](https://github.com/mingyus/humans-combine-value-learning-and-hypothesis-testing)\]
 
-**Song, M.**, Takahashi, Y. K., Burton, A. C., Roesch, M. R., Schoenbaum, G., Niv, Y., & Langdon, A. J. (2022). Minimal cross-trial generalization in learning the representation of an odor-guided choice task. *PLoS computational biology*, 18(3), e1009897. \[[pdf](http://mingyus.github.io/files/SongEtal_PLOSCB_2022.pdf)\] \[[code](https://github.com/mingyus/minimal-generalization-in-representation-learning)\]
+**Song M.**, Jones C.E., Monfils M.H., & Niv Y. (2022). Explaining the effectiveness of fear extinction through latent-cause inference. *Neurons, Behavior, Data analysis, and Theory*, https://doi.org/10.51628/001c.35660 \[[pdf](http://mingyus.github.io/files/SongJonesMonfilsNiv_NBDT_2022.pdf)\] \[[code](https://github.com/mingyus/fear-extinction-latent-cause-inference)\]
+
+**Song M.**, Takahashi Y.K., Burton A.C., Roesch M.R., Schoenbaum G., Niv, Y., & Langdon A.J. (2022). Minimal cross-trial generalization in learning the representation of an odor-guided choice task. *PLoS computational biology*, 18(3), e1009897. \[[pdf](http://mingyus.github.io/files/SongEtal_PLOSCB_2022.pdf)\] \[[code](https://github.com/mingyus/minimal-generalization-in-representation-learning)\]
 
 Langdon A.J., **Song M.**, Niv Y. (2019) Uncovering the “state”: tracing the hidden state representations that structure learning and decision-making. *Behavioural Processes*, 103891 \[[pdf](http://mingyus.github.io/files/LangdonSongNiv_BP_2020.pdf)\]
 
@@ -33,7 +35,7 @@ Langdon A.J., **Song M.**, Niv Y. (2019) Uncovering the “state”: tracing the
 
 **Conference Proceedings**
 
-**Song M.**, Niv Y., Cai M.B. (2021) Using Recurrent Neural Networks to Understand Human Reward Learning. *43rd Annual Meeting of the Cognitive Science Society* [[poster](http://mingyus.github.io/files/SongNivCai_CogSci_2021_poster.pdf)] [[video](https://underline.io/events/163/posters/5709/poster/27030-1-d-135-using-recurrent-neural-networks-to-understand-human-reward-learning)] [[paper](http://mingyus.github.io/files/SongNivCai_CogSci_2021.pdf)]
+**Song M.**, Niv Y., Cai M. B. (2021) Using Recurrent Neural Networks to Understand Human Reward Learning. *43rd Annual Meeting of the Cognitive Science Society* [[poster](http://mingyus.github.io/files/SongNivCai_CogSci_2021_poster.pdf)] [[video](https://underline.io/events/163/posters/5709/poster/27030-1-d-135-using-recurrent-neural-networks-to-understand-human-reward-learning)] [[paper](http://mingyus.github.io/files/SongNivCai_CogSci_2021.pdf)]
 
 **Song M.**, Niv Y., Cai M.B. (2020) Learning multi-dimensional rules with probabilistic feedback via value-based serial hypothesis testing. *Workshop on Biological and Artificial Reinforcement Learning, Thirty-fourth Conference on Neural Information Processing Systems (Neurips)* [[talk](https://slideslive.com/38942371/learning-multidimensional-rules-via-valuebased-serial-hypothesis-testing)] [[paper](http://mingyus.github.io/files/SongNivCai_Neurips_BARLworkshop_2020.pdf)]
 
@@ -41,7 +43,7 @@ Langdon A.J., **Song M.**, Niv Y. (2019) Uncovering the “state”: tracing the
 
 **Song M.**, Cai M.B, Niv Y. (2019) Learning what is relevant for rewards via value learning and hypothesis testing. *Computational and Cognitive Neuroscience Conference (CCN)*, Berlin, Germany [[poster](http://mingyus.github.io/files/SongCaiNiv_CNN_2019.pdf)]
 
-**Song M.**, Langdon A., Takahashi Y., Schoenbaum G., Niv Y. (2019) Not smart enough: most rats fail to learn a parsimonious task representation. *The Multi-disciplinary Conference on Reinforcement Learning and Decision Making (RLDM)*, Montreal, QC, Canada [[poster](http://mingyus.github.io/files/SongLangdonNiv_RLDM_2019.pdf) & spotlight presentation]
+**Song M.**, Langdon A., Takahashi Y.K., Schoenbaum G., Niv Y. (2019) Not smart enough: most rats fail to learn a parsimonious task representation. *The Multi-disciplinary Conference on Reinforcement Learning and Decision Making (RLDM)*, Montreal, QC, Canada [[poster](http://mingyus.github.io/files/SongLangdonNiv_RLDM_2019.pdf) & spotlight presentation]
 
 **Song M.**, Bnaya Z., Ma W.J. (2017) History effects in a minimalistic explore-exploit task. *Computational and Cognitive Neuroscience Conference (CCN)*, New York, NY [[talk](https://www.youtube.com/watch?v=VQlRJJz5V3s)]
 
